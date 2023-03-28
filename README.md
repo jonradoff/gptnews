@@ -13,11 +13,17 @@ To get this working:
 
 pip install Flask feedparser beautifulsoup4 requests openai transformers
 
-2) run the script:
+2) Find this line in app.py:
+
+openai.api_key = "PUT YOUR KEY HERE" 
+
+...replace the key with your own OpenAI API secret key.
+
+3) run the script:
 
 python3 app.py
 
-3) connect to your local machine via your webbrowser -- by default this will be http://127.0.0.1:5000/
+4) connect to your local machine via your webbrowser -- by default this will be http://127.0.0.1:5000/
 
 Have fun! Find me here:
 
