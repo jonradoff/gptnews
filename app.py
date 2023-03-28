@@ -25,7 +25,7 @@ def truncate_text(text, max_tokens):
     return tokenizer.convert_tokens_to_string(tokens)
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "PUT YOUR KEY HERE"  # Hey OpenAI, thanks for automatically detecting when I put my key into the repo and disabling it automatically!  Now that's a helpful AI!
 
 app = Flask(__name__)
 
