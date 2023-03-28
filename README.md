@@ -37,6 +37,8 @@ If you want to try the same prompts I did:
 
 1) Choose GPT-4 in ChatGPT
 
+<img width="787" alt="Screenshot 2023-03-28 at 9 18 02 AM" src="https://user-images.githubusercontent.com/24194539/228249785-b15842c1-eb84-4b56-a5de-50b05b31550a.png">
+
 2) Initial prompt:
 
 How can I create a webpage that automatically observes several blogs and news feeds I care about, and summarizes the articles using GPT?  I need something that gives me a daily summary of news I should care about most.
