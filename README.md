@@ -39,13 +39,13 @@ If you want to try the same prompts I did:
 
 2) Initial prompt:
 
-<img width="782" alt="Screenshot 2023-03-28 at 9 17 39 AM" src="https://user-images.githubusercontent.com/24194539/228250213-f6a87166-68f5-4ab8-acf0-3efc0bc7dc2e.png">
-
 <img width="778" alt="Screenshot 2023-03-28 at 9 17 25 AM" src="https://user-images.githubusercontent.com/24194539/228250299-509a51ac-ae58-460f-9606-41b4a2f89e00.png">
 
 How can I create a webpage that automatically observes several blogs and news feeds I care about, and summarizes the articles using GPT?  I need something that gives me a daily summary of news I should care about most.
 
 [...]
+
+<img width="782" alt="Screenshot 2023-03-28 at 9 17 39 AM" src="https://user-images.githubusercontent.com/24194539/228250213-f6a87166-68f5-4ab8-acf0-3efc0bc7dc2e.png">
 
 can you give me a version of the above code that is implemented with Flask?
 
